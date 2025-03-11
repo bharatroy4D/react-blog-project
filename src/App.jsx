@@ -1,14 +1,14 @@
 
 import './App.css'
+import Toper from './Components/Toper/Toper'
 
 function App() {
 
   return (
     <>
    
-      <h1 className='text-2xl '>Vite + React</h1>
       <div>
-        
+        <Toper></Toper>
       </div>
    
     </>
