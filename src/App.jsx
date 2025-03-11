@@ -1,5 +1,6 @@
 
 import './App.css'
+import Navbar from './Components/Navbar/Navbar'
 import Toper from './Components/Toper/Toper'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
    
       <div>
         <Toper></Toper>
+        <Navbar></Navbar>
       </div>
    
     </>
