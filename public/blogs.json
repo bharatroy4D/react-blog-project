@@ -1,113 +1,123 @@
 [
-    {
+  {
       "id": 1,
       "category": "Technology",
       "author": "John Doe",
       "title": "The Future of AI in Web Development",
-      "comment": 12,
-      "minutes": 5,
-      "view": 1500,
-      "tags": ["AI", "Web Development", "Technology"]
-    },
-    {
+      "comment": "12 comment",
+      "minutes": "5 minutes",
+      "view": "1500 views",
+      "tags": ["AI", "Web Development", "Technology"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Technology"
+  },
+  {
       "id": 2,
       "category": "Health",
       "author": "Jane Smith",
       "title": "10 Tips for a Healthier Lifestyle",
-      "comment": 8,
-      "minutes": 7,
-      "view": 2300,
-      "tags": ["Health", "Lifestyle", "Wellness"]
-    },
-    {
+      "comment": "8 comment",
+      "minutes": "7 minutes",
+      "view": "2300 views",
+      "tags": ["Health", "Lifestyle", "Wellness"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Health"
+  },
+  {
       "id": 3,
       "category": "Travel",
       "author": "Michael Brown",
       "title": "Top 5 Hidden Destinations to Visit",
-      "comment": 15,
-      "minutes": 6,
-      "view": 1800,
-      "tags": ["Travel", "Destinations", "Adventure"]
-    },
-    {
+      "comment": "15 comment",
+      "minutes": "6 minutes",
+      "view": "1800 views",
+      "tags": ["Travel", "Destinations", "Adventure"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Travel"
+  },
+  {
       "id": 4,
       "category": "Food",
       "author": "Emily Johnson",
       "title": "The Best Homemade Pizza Recipe",
-      "comment": 20,
-      "minutes": 4,
-      "view": 3100,
-      "tags": ["Food", "Recipes", "Cooking"]
-    },
-    {
+      "comment": "20 comment",
+      "minutes": "4 minutes",
+      "view": "3100 views",
+      "tags": ["Food", "Recipes", "Cooking"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Food"
+  },
+  {
       "id": 5,
       "category": "Finance",
       "author": "Robert Wilson",
       "title": "How to Save Money in 2025",
-      "comment": 5,
-      "minutes": 8,
-      "view": 1200,
-      "tags": ["Finance", "Saving", "Money"]
-    },
-    {
+      "comment": "5 comment",
+      "minutes": "8 minutes",
+      "view": "1200 views",
+      "tags": ["Finance", "Saving", "Money"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Finance"
+  },
+  {
       "id": 6,
       "category": "Lifestyle",
       "author": "Sophia Martinez",
       "title": "Minimalist Living: Pros and Cons",
-      "comment": 10,
-      "minutes": 5,
-      "view": 2700,
-      "tags": ["Lifestyle", "Minimalism", "Living"]
-    },
-    {
+      "comment": "10 comment",
+      "minutes": "5 minutes",
+      "view": "2700 views",
+      "tags": ["Lifestyle", "Minimalism", "Living"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Lifestyle"
+  },
+  {
       "id": 7,
       "category": "Technology",
       "author": "Lucas Green",
       "title": "The Rise of Quantum Computing",
-      "comment": 7,
-      "minutes": 9,
-      "view": 1100,
-      "tags": ["Technology", "Quantum Computing", "Innovation"]
-    },
-    {
+      "comment": "7 comment",
+      "minutes": "9 minutes",
+      "view": "1100 views",
+      "tags": ["Technology", "Quantum Computing", "Innovation"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Technology"
+  },
+  {
       "id": 8,
       "category": "Health",
       "author": "Olivia Lee",
       "title": "How to Boost Your Immune System Naturally",
-      "comment": 22,
-      "minutes": 6,
-      "view": 2800,
-      "tags": ["Health", "Immune System", "Wellness"]
-    },
-    {
+      "comment": "22 comment",
+      "minutes": "6 minutes",
+      "view": "2800 views",
+      "tags": ["Health", "Immune System", "Wellness"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Health"
+  },
+  {
       "id": 9,
       "category": "Travel",
       "author": "David Harris",
       "title": "Must-Visit Spots in Europe This Summer",
-      "comment": 30,
-      "minutes": 7,
-      "view": 3500,
-      "tags": ["Travel", "Europe", "Summer"]
-    },
-    {
+      "comment": "30 comment",
+      "minutes": "7 minutes",
+      "view": "3500 views",
+      "tags": ["Travel", "Europe", "Summer"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Travel"
+  },
+  {
       "id": 10,
       "category": "Food",
       "author": "Isabella White",
       "title": "5 Quick and Easy Breakfast Recipes",
-      "comment": 10,
-      "minutes": 5,
-      "view": 2100,
-      "tags": ["Food", "Recipes", "Breakfast"]
-    },
-    {
+      "comment": "10 comment",
+      "minutes": "5 minutes",
+      "view": "2100 views",
+      "tags": ["Food", "Recipes", "Breakfast"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Food"
+  },
+  {
       "id": 11,
       "category": "Lifestyle",
       "author": "James Clark",
       "title": "The Benefits of Meditation for Mental Health",
-      "comment": 18,
-      "minutes": 8,
-      "view": 2500,
-      "tags": ["Lifestyle", "Meditation", "Mental Health"]
-    }
-  ]
-  
+      "comment": "18 comment",
+      "minutes": "8 minutes",
+      "view": "2500 views",
+      "tags": ["Lifestyle", "Meditation", "Mental Health"],
+      "cover_img": "https://via.placeholder.com/300x200?text=Lifestyle"
+  }
+]

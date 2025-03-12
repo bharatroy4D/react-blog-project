@@ -5,7 +5,7 @@ import { FaSquareInstagram, FaSquareXTwitter, FaTelegram, } from 'react-icons/fa
 const Toper = () => {
     return (
         <div className='bg-gradient-to-r from-purple-500 to-pink-500 '>
-            <div className="flex justify-between items-center w-10/12 mx-auto py-2">
+            <div className="flex justify-between items-center px-10 mx-auto py-2">
                 <div>
                     <ul className='flex gap-3 items-center  text-xl text-white'>
                         <a href=""><FaLinkedin></FaLinkedin></a>

@@ -11,7 +11,7 @@ import { TfiAlignJustify } from "react-icons/tfi";
 const Navbar = () => {
     return (
         <div>
-            <div className="navbar bg-base-100  w-10/12 mx-auto">
+            <div className="navbar bg-base-100  px-10 mx-auto">
                 <div className="flex-1">
                     <img className='max-w-28' src={logo} alt="" />
                 </div>

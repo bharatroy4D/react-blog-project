@@ -12,7 +12,7 @@ function App() {
     <>
       <Toper></Toper>
       <Navbar></Navbar>
-      <div className='flex gap-3'>
+      <div className='flex gap-5'>
       <Categories></Categories>
       <ViewBlogs></ViewBlogs>
       <Blogs></Blogs>
