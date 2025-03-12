@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='border rounded w-1/4'>
+        <div className='rounded w-1/4 bg-base-300'>
             <h2>Blogs</h2>
         </div>
     );

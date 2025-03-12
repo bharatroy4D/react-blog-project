@@ -1,5 +1,5 @@
 [
-  {
+    {
       "id": 1,
       "category": "Technology",
       "author": "John Doe",
@@ -8,9 +8,10 @@
       "minutes": "5 minutes",
       "view": "1500 views",
       "tags": ["AI", "Web Development", "Technology"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Technology"
-  },
-  {
+      "cover_img": "https://i.ibb.co/CpQfW8Wd/online-blog.jpg",
+      "description": "Explore the potential of AI and how it will revolutionize web development in the future."
+    },
+    {
       "id": 2,
       "category": "Health",
       "author": "Jane Smith",
@@ -19,9 +20,10 @@
       "minutes": "7 minutes",
       "view": "2300 views",
       "tags": ["Health", "Lifestyle", "Wellness"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Health"
-  },
-  {
+      "cover_img": "https://i.ibb.co/GQXYNNyN/Blog-Cover-and-Social-Image.webp",
+      "description": "Practical tips for adopting a healthier lifestyle to improve your physical and mental well-being."
+    },
+    {
       "id": 3,
       "category": "Travel",
       "author": "Michael Brown",
@@ -30,9 +32,10 @@
       "minutes": "6 minutes",
       "view": "1800 views",
       "tags": ["Travel", "Destinations", "Adventure"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Travel"
-  },
-  {
+      "cover_img": "https://i.ibb.co/PswPfqhp/stock-photo-asian-couples-relax-on-holiday-travel-nature-taking-photographs-pink-sakura.jpg",
+      "description": "Discover five off-the-beaten-path destinations ideal for adventurous travelers seeking unique experiences."
+    },
+    {
       "id": 4,
       "category": "Food",
       "author": "Emily Johnson",
@@ -41,9 +44,10 @@
       "minutes": "4 minutes",
       "view": "3100 views",
       "tags": ["Food", "Recipes", "Cooking"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Food"
-  },
-  {
+      "cover_img": "https://i.ibb.co/m5bpwrRH/photo-1504754524776-8f4f37790ca0.jpg",
+      "description": "A simple yet delicious homemade pizza recipe that everyone in your family will love."
+    },
+    {
       "id": 5,
       "category": "Finance",
       "author": "Robert Wilson",
@@ -52,9 +56,10 @@
       "minutes": "8 minutes",
       "view": "1200 views",
       "tags": ["Finance", "Saving", "Money"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Finance"
-  },
-  {
+      "cover_img": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/8103728/676310_78538.png",
+      "description": "Learn effective money-saving strategies to manage your finances better and prepare for the future."
+    },
+    {
       "id": 6,
       "category": "Lifestyle",
       "author": "Sophia Martinez",
@@ -63,9 +68,10 @@
       "minutes": "5 minutes",
       "view": "2700 views",
       "tags": ["Lifestyle", "Minimalism", "Living"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Lifestyle"
-  },
-  {
+      "cover_img": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/blogs/health-and-lifestyle/10-tips-every-meditation-beginner-must-know-tata-aia-blog/shutterstock_19248970851.jpg",
+      "description": "Explore the benefits and challenges of minimalist living, and how it can simplify your life."
+    },
+    {
       "id": 7,
       "category": "Technology",
       "author": "Lucas Green",
@@ -74,9 +80,10 @@
       "minutes": "9 minutes",
       "view": "1100 views",
       "tags": ["Technology", "Quantum Computing", "Innovation"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Technology"
-  },
-  {
+      "cover_img": "https://static.vecteezy.com/system/resources/thumbnails/011/567/676/small/modern-technology-background-photo.jpg",
+      "description": "An overview of quantum computing's growing importance in revolutionizing industries and solving complex problems."
+    },
+    {
       "id": 8,
       "category": "Health",
       "author": "Olivia Lee",
@@ -85,9 +92,10 @@
       "minutes": "6 minutes",
       "view": "2800 views",
       "tags": ["Health", "Immune System", "Wellness"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Health"
-  },
-  {
+      "cover_img": "https://img.freepik.com/free-photo/doctor-writing-about-routine-medical-checkup_23-2149281072.jpg",
+      "description": "Natural methods to strengthen your immune system and maintain a healthy, balanced lifestyle."
+    },
+    {
       "id": 9,
       "category": "Travel",
       "author": "David Harris",
@@ -96,9 +104,10 @@
       "minutes": "7 minutes",
       "view": "3500 views",
       "tags": ["Travel", "Europe", "Summer"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Travel"
-  },
-  {
+      "cover_img": "https://t4.ftcdn.net/jpg/10/63/42/79/360_F_1063427925_tadHhJOmaxD1C1fokB6o22fOB06bL0bS.jpg",
+      "description": "Top European destinations to explore during summer for the perfect vacation experience."
+    },
+    {
       "id": 10,
       "category": "Food",
       "author": "Isabella White",
@@ -107,9 +116,10 @@
       "minutes": "5 minutes",
       "view": "2100 views",
       "tags": ["Food", "Recipes", "Breakfast"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Food"
-  },
-  {
+      "cover_img": "https://img.freepik.com/premium-photo/poster-special-event-called-special-offer_1313246-1411.jpg",
+      "description": "Simple breakfast recipes that are quick, easy, and perfect for busy mornings."
+    },
+    {
       "id": 11,
       "category": "Lifestyle",
       "author": "James Clark",
@@ -118,6 +128,8 @@
       "minutes": "8 minutes",
       "view": "2500 views",
       "tags": ["Lifestyle", "Meditation", "Mental Health"],
-      "cover_img": "https://via.placeholder.com/300x200?text=Lifestyle"
-  }
-]
+      "cover_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMSJtGCyK1J6hbr2pxo1SH-88fFht02FuTQ&s",
+      "description": "Explore the mental health benefits of meditation and how it improves focus, stress, and emotions."
+    }
+  ]
+  
