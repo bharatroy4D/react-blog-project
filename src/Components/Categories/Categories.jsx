@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Category from '../Category/Category';
 
-const Categories = () => {
+const Categories = ({ handleCategory }) => {
     const [categories, setCategories] = useState([]);
 
     useEffect(() => {
@@ -14,9 +14,13 @@ const Categories = () => {
             <h1 className='text-xl font-medium py-3'>Categories:</h1>
             <div>
                 {
-                    categories.map(category => <Category key={Category.id} category={category}></Category>)
-                }         
-           </div>
+                    categories.map(category => <Category
+                        key={Category.id}
+                        category={category}
+                        handleCategory={handleCategory}
+                    ></Category>)
+                }
+            </div>
         </div>
     );
 };
